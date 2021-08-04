@@ -27,3 +27,15 @@ D:\LEARN PL\.NET Core 5\Catalog\obj\Debug\net5.0\Catalog.dll
 D:\LEARN PL\.NET Core 5\Catalog\obj\Debug\net5.0\ref\Catalog.dll
 D:\LEARN PL\.NET Core 5\Catalog\obj\Debug\net5.0\Catalog.pdb
 D:\LEARN PL\.NET Core 5\Catalog\obj\Debug\net5.0\Catalog.genruntimeconfig.cache
+D:\LEARN PL\.NET Core 5\Catalog\bin\Debug\net5.0\DnsClient.dll
+D:\LEARN PL\.NET Core 5\Catalog\bin\Debug\net5.0\MongoDB.Bson.dll
+D:\LEARN PL\.NET Core 5\Catalog\bin\Debug\net5.0\MongoDB.Driver.dll
+D:\LEARN PL\.NET Core 5\Catalog\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+D:\LEARN PL\.NET Core 5\Catalog\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+D:\LEARN PL\.NET Core 5\Catalog\bin\Debug\net5.0\SharpCompress.dll
+D:\LEARN PL\.NET Core 5\Catalog\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+D:\LEARN PL\.NET Core 5\Catalog\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+D:\LEARN PL\.NET Core 5\Catalog\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+D:\LEARN PL\.NET Core 5\Catalog\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+D:\LEARN PL\.NET Core 5\Catalog\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+D:\LEARN PL\.NET Core 5\Catalog\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
